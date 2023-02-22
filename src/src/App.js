@@ -9,7 +9,7 @@ function App() {
       </header>
       <h2>Search for a recipe based on an ingredient!</h2>
       <br></br>
-      <Search city="Oslo" />
+      <Search ingredient="Broccoli" />
     </div>
   );
 }
